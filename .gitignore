@@ -2,3 +2,5 @@ __pycache__/
 .env
 .env.*
 !reports/.gitkeep
+reports/*.log
+reports/*.pid
