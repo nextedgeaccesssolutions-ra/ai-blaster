@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-03T09:39:17.968294+00:00",
+  "generated_at": "2026-11-03T09:40:20.502422+00:00",
   "query": "filename:SKILL.md (seo OR social OR marketing OR analytics OR trends)",
   "candidate_count": 0,
   "candidates": [],
-  "request_status": 401,
-  "request_note": "Add GITHUB_TOKEN locally for code search.",
+  "request_status": 429,
+  "request_note": "",
   "policy": "No remote skill is cloned, executed, or merged automatically."
 }
