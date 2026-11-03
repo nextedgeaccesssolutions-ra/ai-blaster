@@ -1,4 +1,4 @@
-# NextEdge Growth Intelligence
+# Ai Blaster
 
 Scheduled trend and performance monitoring for YouTube, TikTok, Instagram, Facebook, X, Google Trends, Search Console, and Google Analytics.
 
