@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-07T13:24:07.982472+00:00",
+  "generated_at": "2026-11-08T13:44:07.105684+00:00",
   "query": "filename:SKILL.md (seo OR social OR marketing OR analytics OR trends)",
   "candidate_count": 0,
   "candidates": [],
-  "request_status": 429,
+  "request_status": 422,
   "request_note": "",
   "policy": "No remote skill is cloned, executed, or merged automatically."
 }
